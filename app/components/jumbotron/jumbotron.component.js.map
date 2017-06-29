@@ -1,0 +1,1 @@
+{"version":3,"file":"jumbotron.component.js","sourceRoot":"","sources":["jumbotron.component.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAA0C;AAO1C;IAAA;IAAkC,CAAC;IAAtB,kBAAkB;QAL9B,gBAAS,CAAC;YACT,QAAQ,EAAE,MAAM,CAAC,EAAE;YACnB,QAAQ,EAAE,WAAW;YACrB,WAAW,EAAE,0BAA0B;SACxC,CAAC;OACW,kBAAkB,CAAI;IAAD,yBAAC;CAAA,AAAnC,IAAmC;AAAtB,gDAAkB"}
